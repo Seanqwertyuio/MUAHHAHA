@@ -1,0 +1,30 @@
+body{
+	background: rgb(249, 179, 89);
+	text-align: center;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+
+img{
+	max-width: : 75%;
+	height: 75%;
+	margin:auto;
+}
+
+ul{
+	list-style: none;
+
+}
+
+li{
+	background: rgb(255,255,255);
+	padding: 10px;
+	margin: 10px 0;
+}
+
+li:hover{
+	background:  rgb(240,255,255);
+}
